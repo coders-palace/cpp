@@ -2,7 +2,7 @@
 #include<iostream>
 using namespace std;
 
-class base//abstract class
+class base/
 {
 	public:
 		virtual void display(){
