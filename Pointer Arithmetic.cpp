@@ -18,12 +18,12 @@ main(){
 	j=j+2;//exercise: j=j+5
 	cout<<j<<endl;
 	
-    int var=5;
-    int *p=&var;
-    int **q=&p;
-    cout<<var<<endl;
-    cout<<*p<<endl;
-    *p+2;
-    cout<<var;
+        int var=5;
+        int *p=&var;
+        int **q=&p;
+        cout<<var<<endl;
+        cout<<*p<<endl;
+        *p+2;
+        cout<<var;
 }
 
